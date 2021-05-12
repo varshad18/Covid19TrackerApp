@@ -16,3 +16,5 @@ For World Data : https://corona.lmao.ninja/v2/all
 __Helplines:__  
 The Call and Whatsapp helpline numbers are only for use in Bangalore, Karnataka, India.  
 
+![alt text](https://drive.google.com/file/d/1o8E3F2qAM-MvGHaPxIPOWAgoVZTTLSsO/view?usp=sharing)
+
