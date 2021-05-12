@@ -1,7 +1,7 @@
 # Covid19 Tracker App
 ## Mobile_Computing_and_App_Development_Project
 
-__**Lets stay safe together**__   
+###  **Lets stay safe together**   
 
 ### Take a break from the news.  
 ### Information overload can be upsetting. We'll provide you with all the needed information regarding Covid-19.  
