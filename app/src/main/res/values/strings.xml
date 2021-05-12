@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MCAD_Proj</string>
+    <string name="supportive">SUPPORTIVE</string>
+    <string name="careful">CAREFUL</string>
+    <string name="alert">ALERT</string>
+    <string name="kind">KIND</string>
+
+</resources>
