@@ -18,9 +18,10 @@ The Call and Whatsapp helpline numbers are only for use in Bangalore, Karnataka,
 
 Main Screen             |  Symptoms Screen
 :-------------------------:|:-------------------------:
-![Main Screen](Screenshots/MainScreen.jpeg) |   ![Symptoms Screen](Screenshots/SymptomsScreen.jpeg) 
-   
-![India Stat](Screenshots/IndiaStat.jpeg)   ![Country List](Screenshots/CountryListStart.jpeg)  
+![Main Screen](Screenshots/MainScreen.jpeg) |   ![Symptoms Screen](Screenshots/SymptomsScreen.jpeg)  
+India Statistics Screen             |  Countries List with Cases
+:-------------------------:|:-------------------------:
+![India Stat](Screenshots/IndiaStat.jpeg)  |   ![Country List](Screenshots/CountryListStart.jpeg)  
 
 Check Screenshots folder for more screenshots of the app
 
