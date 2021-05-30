@@ -33,13 +33,7 @@
         android:layout_weight="2"
         app:srcCompat="@drawable/icon" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="16dp"
-        android:text="Developed By Team 10"
-        android:textSize="20sp"
-        android:textColor="#0D8E53"/>
+   
 
 
 </LinearLayout>
