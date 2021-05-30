@@ -1,5 +1,5 @@
 # Covid19 Tracker App
-## Mobile_Computing_and_App_Development_Project
+## Mobile_App_Development_Project
 
 ###  **Lets stay safe together**   
 
